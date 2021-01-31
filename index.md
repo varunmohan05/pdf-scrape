@@ -20,8 +20,6 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-<html>
-<body>
 
 
 **Bold** and _Italic_ and `Code` text
